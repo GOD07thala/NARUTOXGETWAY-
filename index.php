@@ -92,7 +92,7 @@ echo"$one3<br>$outt";
 $msgg="<b>🚀 New Conversion 🚀\n✅ Offer :</b> $cname <b>[</b><code>$offer</code><b>]\nEvent :</b> $event1\n\n<b>✅ User:</b> $user\n<b>✅ Amount</b> $uam\n<b>✳️ Status:</b> $outputu\n<b>✅ Refer:</b> $refer\n<b>✅ Amount</b> $aam\n<b>✳️ Status:</b> $outputr\n<b>⚡ Lead:</b> $cont\n<b>🔱 Devloped by SwatCampaign.xyz</b>";
 $mess=urlencode($msgg);
 
-$url999="https://api.telegram.org/bot5096663514:AAG8cRZEyd1P-2nakLMSG3_nqyOJM9WQu6M/sendMessage?chat_id=$tg&text=$mess&parse_mode=Html";
+$url999="https://api.telegram.org/bot7588554746:AAHB-0BHIR96G3W0m6wK8cxB44Zugd3YUtU/sendMessage?chat_id=$tg&text=$mess&parse_mode=Html";
 
 $h999[]='Host: api.telegram.org';
 $h999[]='accept: */*';
