@@ -1,0 +1,24 @@
+<?php
+error_reporting(0);
+session_start();
+
+$session = $_SESSION['user'];
+
+if(!isset($_SESSION['user'])){
+
+echo" <div class='login-box'><h3 class='variablecolor' >Please Login";
+
+echo"<meta http-equiv='refresh' content='0;url=login.php'>";
+return;
+}else{
+
+$id=$_GET['id'];
+$offerid=$_GET['offerid'];
+ 
+    unlink(''.$session.'/LCamp/'.$id.'.json');
+    unlink(''.$session.'/offer/'.$offerid.'.json'); 
+
+echo '<script>alert("Deleted Successfully")</script>';
+echo"<meta http-equiv='refresh' content='0;url=livecampaign.php'>";
+ }       
+?>

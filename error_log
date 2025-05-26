@@ -1,0 +1,585 @@
+[05-Mar-2022 17:33:33 UTC] PHP Warning:  file_put_contents(Swat/counte/lead.txt): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/lead.php on line 66
+[05-Mar-2022 17:35:04 UTC] PHP Warning:  file_get_contents(Swat/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[05-Mar-2022 17:35:04 UTC] PHP Warning:  file_get_contents(Swat/offer/.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[05-Mar-2022 17:35:04 UTC] PHP Warning:  file_get_contents(Swat/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[05-Mar-2022 17:35:06 UTC] PHP Warning:  file_get_contents(Swat/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[05-Mar-2022 17:35:06 UTC] PHP Warning:  file_get_contents(Swat/offer/{offerid}.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[05-Mar-2022 17:35:06 UTC] PHP Warning:  file_get_contents(Swat/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[05-Mar-2022 17:35:09 UTC] PHP Warning:  file_get_contents(Swat/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[05-Mar-2022 17:35:09 UTC] PHP Warning:  file_get_contents(Swat/offer/.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[05-Mar-2022 17:35:09 UTC] PHP Warning:  file_get_contents(Swat/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[05-Mar-2022 17:35:16 UTC] PHP Warning:  file_get_contents(Swat/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[05-Mar-2022 17:35:16 UTC] PHP Warning:  file_get_contents(Swat/offer/{offerid}.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[05-Mar-2022 17:35:16 UTC] PHP Warning:  file_get_contents(Swat/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[05-Mar-2022 17:35:36 UTC] PHP Warning:  file_get_contents(/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[05-Mar-2022 17:35:36 UTC] PHP Warning:  file_get_contents(/offer/.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[05-Mar-2022 17:35:36 UTC] PHP Warning:  file_get_contents(/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[05-Mar-2022 17:35:39 UTC] PHP Warning:  file_get_contents(/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[05-Mar-2022 17:35:39 UTC] PHP Warning:  file_get_contents(/offer/.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[05-Mar-2022 17:35:39 UTC] PHP Warning:  file_get_contents(/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[05-Mar-2022 17:35:46 UTC] PHP Warning:  file_get_contents(/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[05-Mar-2022 17:35:46 UTC] PHP Warning:  file_get_contents(/offer/.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[05-Mar-2022 17:35:46 UTC] PHP Warning:  file_get_contents(/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[05-Mar-2022 17:35:56 UTC] PHP Warning:  file_get_contents(/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[05-Mar-2022 17:35:56 UTC] PHP Warning:  file_get_contents(/offer/.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[05-Mar-2022 17:35:56 UTC] PHP Warning:  file_get_contents(/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[05-Mar-2022 17:35:57 UTC] PHP Warning:  file_get_contents(/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[05-Mar-2022 17:35:57 UTC] PHP Warning:  file_get_contents(/offer/.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[05-Mar-2022 17:35:57 UTC] PHP Warning:  file_get_contents(/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[06-Mar-2022 06:49:20 UTC] PHP Warning:  file_get_contents(/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[06-Mar-2022 06:49:20 UTC] PHP Warning:  file_get_contents(/offer/.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[06-Mar-2022 06:49:20 UTC] PHP Warning:  file_get_contents(/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[07-Mar-2022 13:03:40 UTC] PHP Warning:  mkdir(): File exists in /home/swatcamp/public_html/instant/Dontuse.php on line 122
+[07-Mar-2022 13:06:32 UTC] PHP Warning:  file_get_contents(Noname/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 13:06:32 UTC] PHP Warning:  file_get_contents(Noname/offer/.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[07-Mar-2022 13:06:32 UTC] PHP Warning:  file_get_contents(Noname/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[07-Mar-2022 13:06:54 UTC] PHP Warning:  file_get_contents(Noname/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 13:06:54 UTC] PHP Warning:  file_get_contents(Noname/offer/.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[07-Mar-2022 13:06:54 UTC] PHP Warning:  file_get_contents(Noname/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[07-Mar-2022 13:06:55 UTC] PHP Warning:  file_get_contents(Noname/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 13:06:55 UTC] PHP Warning:  file_get_contents(Noname/offer/.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[07-Mar-2022 13:06:55 UTC] PHP Warning:  file_get_contents(Noname/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[07-Mar-2022 13:07:02 UTC] PHP Warning:  file_get_contents(Noname/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 13:07:02 UTC] PHP Warning:  file_get_contents(Noname/offer/.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[07-Mar-2022 13:07:02 UTC] PHP Warning:  file_get_contents(Noname/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[07-Mar-2022 13:07:06 UTC] PHP Warning:  file_get_contents(Noname/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 13:07:06 UTC] PHP Warning:  file_get_contents(Noname/offer/.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[07-Mar-2022 13:07:06 UTC] PHP Warning:  file_get_contents(Noname/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[07-Mar-2022 13:07:36 UTC] PHP Warning:  file_get_contents(Noname/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 13:07:36 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 73
+[07-Mar-2022 13:07:37 UTC] PHP Warning:  file_get_contents(Noname/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 13:07:37 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 73
+[07-Mar-2022 13:07:44 UTC] PHP Warning:  file_get_contents(Noname/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 13:07:44 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 73
+[07-Mar-2022 13:08:04 UTC] PHP Warning:  file_get_contents(Noname/counte/lead.txt): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 112
+[07-Mar-2022 13:08:04 UTC] PHP Warning:  file_get_contents(Noname/Checkref/15964368/hi.txt): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 115
+[07-Mar-2022 13:08:07 UTC] PHP Warning:  file_get_contents(Noname/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 13:08:07 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 73
+[07-Mar-2022 13:08:37 UTC] PHP Warning:  file_get_contents(Noname/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 13:08:37 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 73
+[07-Mar-2022 13:08:44 UTC] PHP Warning:  file_get_contents(Noname/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 13:08:44 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 73
+[07-Mar-2022 13:09:38 UTC] PHP Warning:  file_get_contents(Noname/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 13:09:38 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 73
+[07-Mar-2022 13:09:45 UTC] PHP Warning:  file_get_contents(Noname/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 13:09:45 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 73
+[07-Mar-2022 13:50:02 UTC] PHP Warning:  file_get_contents(Noname/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 13:50:02 UTC] PHP Warning:  file_get_contents(Noname/offer/15964368.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[07-Mar-2022 13:53:26 UTC] PHP Warning:  mkdir(): File exists in /home/swatcamp/public_html/instant/Dontuse.php on line 122
+[07-Mar-2022 13:55:36 UTC] PHP Warning:  file_get_contents(Demo/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 13:55:36 UTC] PHP Warning:  file_get_contents(Demo/offer/.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[07-Mar-2022 13:55:36 UTC] PHP Warning:  file_get_contents(Demo/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[07-Mar-2022 13:55:45 UTC] PHP Warning:  file_get_contents(/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 13:55:45 UTC] PHP Warning:  file_get_contents(/offer/.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[07-Mar-2022 13:55:45 UTC] PHP Warning:  file_get_contents(/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[07-Mar-2022 13:56:00 UTC] PHP Warning:  file_get_contents(Noname/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 13:56:00 UTC] PHP Warning:  file_get_contents(Noname/offer/1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[07-Mar-2022 13:56:04 UTC] PHP Warning:  file_get_contents(Noname/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 13:56:04 UTC] PHP Warning:  file_get_contents(Noname/offer/.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[07-Mar-2022 13:56:13 UTC] PHP Warning:  file_get_contents(Noname/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 13:56:13 UTC] PHP Warning:  file_get_contents(Noname/offer/777777.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[07-Mar-2022 13:56:22 UTC] PHP Warning:  file_get_contents(Noname/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 13:56:22 UTC] PHP Warning:  file_get_contents(Noname/offer/777777.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[07-Mar-2022 13:56:27 UTC] PHP Warning:  file_get_contents(Noname/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 13:56:27 UTC] PHP Warning:  file_get_contents(Noname/offer/777777.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[07-Mar-2022 13:56:32 UTC] PHP Warning:  file_get_contents(Noname/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 13:56:32 UTC] PHP Warning:  file_get_contents(Noname/offer/777777.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[07-Mar-2022 13:56:39 UTC] PHP Warning:  file_get_contents(/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 13:56:39 UTC] PHP Warning:  file_get_contents(/offer/777777.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[07-Mar-2022 13:56:39 UTC] PHP Warning:  file_get_contents(/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[07-Mar-2022 13:56:41 UTC] PHP Warning:  file_get_contents(Demo/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 13:56:41 UTC] PHP Warning:  file_get_contents(Demo/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[07-Mar-2022 13:56:41 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 13:56:47 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 13:56:48 UTC] PHP Warning:  file_get_contents(Demo/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 13:56:48 UTC] PHP Warning:  file_get_contents(Demo/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[07-Mar-2022 13:56:48 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 13:56:52 UTC] PHP Warning:  file_get_contents(Demo/counte/lead.txt): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 112
+[07-Mar-2022 13:56:52 UTC] PHP Warning:  file_get_contents(Demo/Checkref/777777/9757545845.txt): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 115
+[07-Mar-2022 13:56:58 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 13:57:07 UTC] PHP Warning:  file_get_contents(Demo/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 13:57:07 UTC] PHP Warning:  file_get_contents(Demo/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[07-Mar-2022 13:57:07 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 13:57:16 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 13:57:19 UTC] PHP Warning:  file_get_contents(Demo/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 13:57:19 UTC] PHP Warning:  file_get_contents(Demo/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[07-Mar-2022 13:57:19 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 13:57:28 UTC] PHP Warning:  file_get_contents(Demo/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 13:57:28 UTC] PHP Warning:  file_get_contents(Demo/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[07-Mar-2022 13:57:28 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 13:57:38 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 13:57:42 UTC] PHP Warning:  file_get_contents(Demo/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 13:57:42 UTC] PHP Warning:  file_get_contents(Demo/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[07-Mar-2022 13:57:42 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 13:57:49 UTC] PHP Warning:  file_get_contents(Demo/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 13:57:49 UTC] PHP Warning:  file_get_contents(Demo/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[07-Mar-2022 13:57:49 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 13:57:53 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 13:57:55 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 13:58:04 UTC] PHP Warning:  file_get_contents(Demo/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 13:58:04 UTC] PHP Warning:  file_get_contents(Demo/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[07-Mar-2022 13:58:04 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 13:58:11 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 13:58:43 UTC] PHP Warning:  file_get_contents(Demo/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 13:58:43 UTC] PHP Warning:  file_get_contents(Demo/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[07-Mar-2022 13:58:43 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 13:58:48 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 13:58:50 UTC] PHP Warning:  file_get_contents(Demo/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 13:58:50 UTC] PHP Warning:  file_get_contents(Demo/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[07-Mar-2022 13:58:50 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 13:58:56 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 13:59:04 UTC] PHP Warning:  file_get_contents(Demo/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 13:59:04 UTC] PHP Warning:  file_get_contents(Demo/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[07-Mar-2022 13:59:04 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 13:59:10 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 14:00:36 UTC] PHP Warning:  file_get_contents(Demo/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 14:00:36 UTC] PHP Warning:  file_get_contents(Demo/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[07-Mar-2022 14:00:36 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 14:00:40 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 14:02:17 UTC] PHP Warning:  file_get_contents(Demo/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 14:02:17 UTC] PHP Warning:  file_get_contents(Demo/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[07-Mar-2022 14:02:17 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 14:02:21 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 14:02:57 UTC] PHP Warning:  file_get_contents(Demo/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 14:02:57 UTC] PHP Warning:  file_get_contents(Demo/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[07-Mar-2022 14:02:57 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 14:02:59 UTC] PHP Warning:  file_get_contents(Demo/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 14:02:59 UTC] PHP Warning:  file_get_contents(Demo/offer/.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[07-Mar-2022 14:02:59 UTC] PHP Warning:  file_get_contents(Demo/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[07-Mar-2022 14:03:04 UTC] PHP Warning:  file_get_contents(Demo/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 14:03:04 UTC] PHP Warning:  file_get_contents(Demo/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[07-Mar-2022 14:03:04 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 14:03:08 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 14:03:10 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 14:03:11 UTC] PHP Warning:  file_get_contents(Demo/Checkref/1111111/9757545845.txt): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 115
+[07-Mar-2022 14:03:58 UTC] PHP Warning:  file_get_contents(Demo/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 14:03:58 UTC] PHP Warning:  file_get_contents(Demo/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[07-Mar-2022 14:03:58 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 14:04:02 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 14:04:05 UTC] PHP Warning:  file_get_contents(Demo/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 14:04:05 UTC] PHP Warning:  file_get_contents(Demo/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[07-Mar-2022 14:04:05 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 14:04:08 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 14:04:59 UTC] PHP Warning:  file_get_contents(Demo/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 14:04:59 UTC] PHP Warning:  file_get_contents(Demo/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[07-Mar-2022 14:04:59 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 14:05:06 UTC] PHP Warning:  file_get_contents(Demo/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 14:05:06 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 14:05:08 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 14:05:11 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 14:05:32 UTC] PHP Warning:  file_get_contents(Demo/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 14:05:32 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 14:05:43 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 14:07:15 UTC] PHP Warning:  file_get_contents(Demo/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 14:07:15 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 14:07:25 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 14:10:02 UTC] PHP Warning:  file_get_contents(Demo/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 14:10:02 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 14:10:10 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 14:15:30 UTC] PHP Warning:  file_get_contents(Demo/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 14:15:30 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 14:15:41 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 14:15:59 UTC] PHP Warning:  file_get_contents(Demo/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 14:15:59 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 14:16:09 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 14:27:27 UTC] PHP Warning:  file_get_contents(Demo/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 14:27:27 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 14:27:38 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 14:33:34 UTC] PHP Warning:  file_get_contents(Demo/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 14:33:34 UTC] PHP Warning:  file_get_contents(Demo/offer/8888888.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[07-Mar-2022 14:33:46 UTC] PHP Warning:  file_get_contents(Demo/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 14:33:46 UTC] PHP Warning:  file_get_contents(Demo/offer/8888888.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[07-Mar-2022 14:33:51 UTC] PHP Warning:  file_get_contents(Demo/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 14:33:51 UTC] PHP Warning:  file_get_contents(Demo/offer/8888888.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[07-Mar-2022 14:33:56 UTC] PHP Warning:  file_get_contents(Demo/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 14:33:56 UTC] PHP Warning:  file_get_contents(Demo/offer/8888888.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[07-Mar-2022 14:33:59 UTC] PHP Warning:  file_get_contents(/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 14:33:59 UTC] PHP Warning:  file_get_contents(/offer/8888888.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[07-Mar-2022 14:33:59 UTC] PHP Warning:  file_get_contents(/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[07-Mar-2022 14:34:03 UTC] PHP Warning:  file_get_contents(Ca/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 14:34:03 UTC] PHP Warning:  file_get_contents(Ca/offer/8888888.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[07-Mar-2022 14:34:03 UTC] PHP Warning:  file_get_contents(Ca/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[07-Mar-2022 14:34:04 UTC] PHP Warning:  file_get_contents(Cam/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 14:34:04 UTC] PHP Warning:  file_get_contents(Cam/offer/8888888.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[07-Mar-2022 14:34:04 UTC] PHP Warning:  file_get_contents(Cam/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[07-Mar-2022 14:34:05 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 14:34:10 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 14:34:12 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 14:34:12 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 14:34:18 UTC] PHP Warning:  file_get_contents(Camp/counte/lead.txt): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 112
+[07-Mar-2022 14:34:18 UTC] PHP Warning:  file_get_contents(Camp/Checkref/8888888/7558007006.txt): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 115
+[07-Mar-2022 14:34:21 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 14:34:21 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 14:35:07 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 14:35:14 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 14:35:17 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 14:35:18 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 14:36:07 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 14:36:14 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 14:36:15 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 14:36:24 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 15:28:47 UTC] PHP Warning:  mkdir(): File exists in /home/swatcamp/public_html/instant/Dontuse.php on line 122
+[07-Mar-2022 15:32:19 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 15:32:19 UTC] PHP Warning:  file_get_contents(Trial/offer/777777.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[07-Mar-2022 15:32:25 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 15:32:25 UTC] PHP Warning:  file_get_contents(Trial/offer/.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[07-Mar-2022 15:32:29 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 15:32:29 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 15:32:33 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 15:32:36 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 15:32:36 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 15:32:36 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 15:32:36 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 15:32:39 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 15:32:44 UTC] PHP Warning:  file_get_contents(Trial/counte/lead.txt): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 112
+[07-Mar-2022 15:32:44 UTC] PHP Warning:  file_get_contents(Trial/Checkref/2222222/9757545845.txt): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 115
+[07-Mar-2022 15:32:45 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 15:33:30 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 15:33:30 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 15:33:34 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 15:33:37 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 15:33:37 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 15:33:45 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 15:34:31 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 15:34:31 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 15:34:38 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 15:34:38 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 15:34:46 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 15:34:53 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 15:43:57 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 15:43:57 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 15:44:02 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 15:53:18 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 15:53:18 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 15:53:22 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 15:59:43 UTC] PHP Warning:  mkdir(): File exists in /home/swatcamp/public_html/instant/Dontuse.php on line 122
+[07-Mar-2022 16:04:58 UTC] PHP Warning:  file_get_contents(Nihar143/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 16:04:58 UTC] PHP Warning:  file_get_contents(Nihar143/offer/{offerid}.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[07-Mar-2022 16:04:58 UTC] PHP Warning:  file_get_contents(Nihar143/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[07-Mar-2022 16:04:58 UTC] PHP Warning:  file_get_contents(Nihar143/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 16:04:58 UTC] PHP Warning:  file_get_contents(Nihar143/offer/.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[07-Mar-2022 16:04:58 UTC] PHP Warning:  file_get_contents(Nihar143/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[07-Mar-2022 16:08:16 UTC] PHP Warning:  file_get_contents(Nihar143/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 16:08:16 UTC] PHP Warning:  file_get_contents(Nihar143/offer/{offerid}.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[07-Mar-2022 16:08:16 UTC] PHP Warning:  file_get_contents(Nihar143/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[07-Mar-2022 16:08:53 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 16:08:53 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 16:09:01 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 16:09:53 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 16:09:53 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 16:09:54 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 16:09:54 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 16:09:57 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 16:09:57 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 16:09:58 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 16:10:00 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 16:10:00 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 16:10:00 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 16:10:01 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 16:10:01 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 16:10:02 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 16:10:02 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 16:10:04 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 16:10:04 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 73
+[07-Mar-2022 16:10:04 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 16:10:04 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 16:10:04 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 16:10:08 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 16:10:08 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 16:10:08 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 16:10:09 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 16:10:09 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 73
+[07-Mar-2022 16:10:09 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 16:10:10 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 16:10:12 UTC] PHP Warning:  file_get_contents(Trial/Checkref/2222222/.txt): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 115
+[07-Mar-2022 16:10:12 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 16:10:12 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 73
+[07-Mar-2022 16:10:12 UTC] PHP Warning:  file_get_contents(Trial/Checkref/2222222/7558007006.txt): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 115
+[07-Mar-2022 16:10:16 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 16:10:20 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 16:10:55 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 16:10:55 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 16:10:56 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 16:10:56 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 16:10:59 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 16:10:59 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 16:11:02 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 16:11:02 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 16:11:02 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 16:11:02 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 16:11:02 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 16:11:03 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 16:11:03 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 16:11:04 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 16:11:06 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 16:11:06 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 16:11:06 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 16:11:06 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 16:11:07 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 16:11:07 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 16:11:09 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 16:11:09 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 16:11:09 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 16:11:15 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 16:11:56 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 16:11:56 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 16:11:57 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 16:11:57 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 16:12:00 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 16:12:00 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 16:12:03 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 16:12:03 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 16:12:03 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 16:12:04 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 16:12:04 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 16:12:04 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 16:12:05 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 16:12:05 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 16:12:07 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 16:12:07 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 16:12:07 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 16:12:10 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 16:12:11 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 16:12:12 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 16:12:12 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 16:12:14 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 16:12:15 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 16:12:21 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 16:15:54 UTC] PHP Warning:  mkdir(): File exists in /home/swatcamp/public_html/instant/Dontuse.php on line 122
+[07-Mar-2022 16:19:06 UTC] PHP Warning:  file_get_contents(Nihar143/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[07-Mar-2022 16:19:06 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[07-Mar-2022 16:19:09 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[07-Mar-2022 16:19:14 UTC] PHP Warning:  file_get_contents(Nihar143/counte/lead.txt): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 112
+[07-Mar-2022 16:19:14 UTC] PHP Warning:  file_get_contents(Nihar143/Checkref/16354124/9006768988.txt): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 115
+[08-Mar-2022 15:52:34 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[08-Mar-2022 15:52:41 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[08-Mar-2022 15:52:49 UTC] PHP Warning:  file_get_contents(Camp/Checkref/17063883/0.txt): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 115
+[08-Mar-2022 15:52:50 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[08-Mar-2022 15:52:59 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[08-Mar-2022 15:53:09 UTC] PHP Warning:  file_get_contents(Camp/Checkref/17063883/9335962320.txt): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 115
+[08-Mar-2022 16:58:23 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[08-Mar-2022 16:58:28 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[08-Mar-2022 16:58:40 UTC] PHP Warning:  file_get_contents(Camp/Checkref/17063883/9002111957.txt): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 115
+[08-Mar-2022 17:06:37 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[08-Mar-2022 17:06:49 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[08-Mar-2022 17:07:01 UTC] PHP Warning:  file_get_contents(Camp/Checkref/17063883/6371892159.txt): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 115
+[08-Mar-2022 17:10:38 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 73
+[08-Mar-2022 17:10:49 UTC] PHP Warning:  file_get_contents(Camp/Checkref/17063883/9832798192.txt): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 115
+[08-Mar-2022 17:13:08 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[08-Mar-2022 17:13:20 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[08-Mar-2022 17:18:52 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 73
+[08-Mar-2022 17:19:48 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[08-Mar-2022 17:19:51 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[08-Mar-2022 17:33:41 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 73
+[09-Mar-2022 16:26:30 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[09-Mar-2022 16:26:30 UTC] PHP Warning:  file_get_contents(Trial/offer/2222222.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[09-Mar-2022 17:20:03 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[09-Mar-2022 17:20:03 UTC] PHP Warning:  file_get_contents(Trial/offer/2222222.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[10-Mar-2022 09:56:06 UTC] PHP Warning:  file_get_contents(/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[10-Mar-2022 09:56:06 UTC] PHP Warning:  file_get_contents(/offer/.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[10-Mar-2022 09:56:06 UTC] PHP Warning:  file_get_contents(/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[10-Mar-2022 09:57:38 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[10-Mar-2022 09:57:38 UTC] PHP Warning:  file_get_contents(Trial/offer/2222222.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[10-Mar-2022 09:57:40 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[10-Mar-2022 09:57:40 UTC] PHP Warning:  file_get_contents(Trial/offer/2222222.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[10-Mar-2022 09:57:48 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[10-Mar-2022 09:57:48 UTC] PHP Warning:  file_get_contents(Trial/offer/.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[10-Mar-2022 09:57:53 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[10-Mar-2022 09:57:53 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[10-Mar-2022 09:57:59 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[10-Mar-2022 09:57:59 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[10-Mar-2022 09:58:00 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[10-Mar-2022 09:58:01 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[10-Mar-2022 09:58:01 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[10-Mar-2022 09:58:01 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[10-Mar-2022 09:58:09 UTC] PHP Warning:  file_get_contents(Trial/Checkref/1234567/7558007006.txt): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 115
+[10-Mar-2022 09:58:09 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[10-Mar-2022 09:58:54 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[10-Mar-2022 09:58:54 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[10-Mar-2022 09:58:57 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[10-Mar-2022 09:59:01 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[10-Mar-2022 09:59:01 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[10-Mar-2022 09:59:11 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[10-Mar-2022 09:59:55 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[10-Mar-2022 09:59:55 UTC] PHP Warning:  file_get_contents(Trial/offer/1234567.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[10-Mar-2022 12:32:12 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[10-Mar-2022 12:32:12 UTC] PHP Warning:  file_get_contents(Trial/offer/1234567.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[10-Mar-2022 13:16:38 UTC] PHP Warning:  mkdir(): File exists in /home/swatcamp/public_html/instant/Dontuse.php on line 122
+[11-Mar-2022 04:10:14 UTC] PHP Warning:  file_get_contents(bappi123/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[11-Mar-2022 04:10:14 UTC] PHP Warning:  file_get_contents(bappi123/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[11-Mar-2022 05:30:27 UTC] PHP Warning:  file_get_contents(bappi123/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[11-Mar-2022 05:30:27 UTC] PHP Warning:  file_get_contents(bappi123/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[11-Mar-2022 06:09:59 UTC] PHP Warning:  file_get_contents(bappi123/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[11-Mar-2022 06:09:59 UTC] PHP Warning:  file_get_contents(bappi123/offer/.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[11-Mar-2022 06:09:59 UTC] PHP Warning:  file_get_contents(bappi123/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[11-Mar-2022 08:38:35 UTC] PHP Warning:  file_get_contents(bappi123/offer/.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[11-Mar-2022 08:38:36 UTC] PHP Warning:  file_get_contents(bappi123/offer/{offerid}.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[11-Mar-2022 11:39:55 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[11-Mar-2022 11:39:55 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[11-Mar-2022 11:39:56 UTC] PHP Warning:  file_get_contents(Camp/Checkref/111/7558007006.txt): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 115
+[11-Mar-2022 11:42:11 UTC] PHP Warning:  file_get_contents(Demo/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[11-Mar-2022 11:42:11 UTC] PHP Warning:  file_get_contents(Demo/offer/777777.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[11-Mar-2022 11:42:11 UTC] PHP Warning:  file_get_contents(Demo/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[11-Mar-2022 11:42:17 UTC] PHP Warning:  file_get_contents(Demo/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[11-Mar-2022 11:42:17 UTC] PHP Warning:  file_get_contents(Demo/offer/7.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[11-Mar-2022 11:42:17 UTC] PHP Warning:  file_get_contents(Demo/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[11-Mar-2022 11:42:21 UTC] PHP Warning:  file_get_contents(Demo/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[11-Mar-2022 11:42:21 UTC] PHP Warning:  file_get_contents(Demo/offer/111.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[11-Mar-2022 11:42:21 UTC] PHP Warning:  file_get_contents(Demo/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[11-Mar-2022 11:42:26 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[11-Mar-2022 11:42:27 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[11-Mar-2022 11:42:27 UTC] PHP Warning:  file_get_contents(Camp/Checkref/111/9757545845.txt): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 115
+[11-Mar-2022 11:42:33 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[11-Mar-2022 11:42:33 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[11-Mar-2022 11:45:21 UTC] PHP Warning:  file_get_contents(bappi/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[11-Mar-2022 11:45:21 UTC] PHP Warning:  file_get_contents(bappi/offer/111.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[11-Mar-2022 11:45:21 UTC] PHP Warning:  file_get_contents(bappi/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[11-Mar-2022 11:45:24 UTC] PHP Warning:  file_get_contents(bappi123/offer/111.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[11-Mar-2022 11:45:26 UTC] PHP Warning:  file_get_contents(bappi123/offer/.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[11-Mar-2022 11:45:33 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[11-Mar-2022 11:45:40 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[11-Mar-2022 11:45:42 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[11-Mar-2022 11:45:42 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[11-Mar-2022 11:45:45 UTC] PHP Warning:  file_get_contents(bappi123/Checkref/9999999/9757545845.txt): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 115
+[11-Mar-2022 11:45:46 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[11-Mar-2022 11:45:48 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[11-Mar-2022 11:45:49 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[11-Mar-2022 11:45:50 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[11-Mar-2022 11:45:50 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[11-Mar-2022 11:45:50 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[11-Mar-2022 11:45:52 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[11-Mar-2022 11:45:53 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[11-Mar-2022 11:45:54 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[11-Mar-2022 11:45:55 UTC] PHP Warning:  file_get_contents(bappi123/Checkref/9999999/0000005.txt): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 115
+[11-Mar-2022 11:45:58 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[11-Mar-2022 11:46:35 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[11-Mar-2022 11:46:37 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[11-Mar-2022 11:46:42 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[11-Mar-2022 11:46:43 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[11-Mar-2022 11:46:45 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[11-Mar-2022 11:46:46 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[11-Mar-2022 11:46:49 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[11-Mar-2022 11:46:50 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[11-Mar-2022 11:46:50 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[11-Mar-2022 11:46:53 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[11-Mar-2022 11:46:56 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[11-Mar-2022 11:46:57 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[11-Mar-2022 11:47:35 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[11-Mar-2022 11:47:37 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[11-Mar-2022 11:47:42 UTC] PHP Warning:  file_get_contents(bappi123/offer/9999999.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[11-Mar-2022 11:47:44 UTC] PHP Warning:  file_get_contents(bappi123/offer/9999999.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[11-Mar-2022 11:47:47 UTC] PHP Warning:  file_get_contents(bappi123/offer/9999999.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[11-Mar-2022 11:48:56 UTC] PHP Warning:  file_get_contents(bap123/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[11-Mar-2022 11:48:56 UTC] PHP Warning:  file_get_contents(bap123/offer/9999999.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[11-Mar-2022 11:48:56 UTC] PHP Warning:  file_get_contents(bap123/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[11-Mar-2022 11:49:00 UTC] PHP Warning:  file_get_contents(Camp/offer/9999999.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[11-Mar-2022 11:49:05 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[11-Mar-2022 11:49:08 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[11-Mar-2022 11:49:11 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[11-Mar-2022 11:49:12 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[11-Mar-2022 11:49:15 UTC] PHP Warning:  file_get_contents(Camp/Checkref/111/0000005.txt): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 115
+[11-Mar-2022 11:49:17 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[11-Mar-2022 11:49:23 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[11-Mar-2022 11:49:52 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[11-Mar-2022 11:49:54 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[11-Mar-2022 11:49:55 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 51
+[11-Mar-2022 11:49:56 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[11-Mar-2022 11:49:59 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[11-Mar-2022 11:50:00 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 51
+[11-Mar-2022 11:50:01 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[11-Mar-2022 11:50:01 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[11-Mar-2022 11:50:02 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[11-Mar-2022 11:50:03 UTC] PHP Warning:  file_get_contents(Camp/Checkref/111/9832798192.txt): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 115
+[11-Mar-2022 11:50:06 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[11-Mar-2022 11:50:07 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 51
+[11-Mar-2022 11:50:08 UTC] PHP Warning:  file_get_contents(Camp/Checkref/111/.txt): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 115
+[11-Mar-2022 11:50:10 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[11-Mar-2022 11:50:13 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[11-Mar-2022 11:50:15 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[11-Mar-2022 11:50:16 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[11-Mar-2022 11:50:53 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[11-Mar-2022 11:50:55 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[11-Mar-2022 11:50:57 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[11-Mar-2022 11:51:02 UTC] PHP Warning:  file_get_contents(Camp/offer/111.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[11-Mar-2022 11:51:05 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[11-Mar-2022 12:07:52 UTC] PHP Warning:  file_get_contents(Camp/offer/111.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[11-Mar-2022 14:22:55 UTC] PHP Warning:  file_get_contents(bappi123/offer/16928808.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[12-Mar-2022 04:32:29 UTC] PHP Warning:  file_get_contents(bappi123/offer/.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[12-Mar-2022 09:19:34 UTC] PHP Warning:  file_get_contents(Camp/Checkref/000/9832798192.txt): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 115
+[12-Mar-2022 15:37:57 UTC] PHP Warning:  file_get_contents(/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[12-Mar-2022 15:37:57 UTC] PHP Warning:  file_get_contents(/offer/.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[12-Mar-2022 15:37:57 UTC] PHP Warning:  file_get_contents(/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[12-Mar-2022 15:42:11 UTC] PHP Warning:  file_get_contents(/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[12-Mar-2022 15:42:11 UTC] PHP Warning:  file_get_contents(/offer/.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[12-Mar-2022 15:42:11 UTC] PHP Warning:  file_get_contents(/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[14-Mar-2022 13:32:45 UTC] PHP Warning:  file_get_contents(/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[14-Mar-2022 13:32:45 UTC] PHP Warning:  file_get_contents(/offer/.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[14-Mar-2022 13:32:45 UTC] PHP Warning:  file_get_contents(/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[14-Mar-2022 13:35:45 UTC] PHP Warning:  file_get_contents(Camp/offer/.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[14-Mar-2022 13:36:39 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[14-Mar-2022 13:36:42 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 73
+[14-Mar-2022 13:36:45 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 73
+[14-Mar-2022 13:36:46 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[14-Mar-2022 13:36:46 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[14-Mar-2022 13:36:49 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 73
+[14-Mar-2022 13:36:52 UTC] PHP Warning:  file_get_contents(Camp/Checkref/17124841/7558007006.txt): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 115
+[14-Mar-2022 13:36:54 UTC] PHP Warning:  file_get_contents(Camp/Checkref/17124841/.txt): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 115
+[14-Mar-2022 13:36:57 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[14-Mar-2022 13:37:40 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[14-Mar-2022 13:37:43 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[14-Mar-2022 13:37:47 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[14-Mar-2022 13:37:52 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[14-Mar-2022 13:38:41 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[14-Mar-2022 13:38:47 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[14-Mar-2022 13:38:48 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[14-Mar-2022 13:38:51 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[14-Mar-2022 16:57:34 UTC] PHP Warning:  file_get_contents(Camp/offer/.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[14-Mar-2022 16:57:41 UTC] PHP Warning:  file_get_contents(Camp/offer/.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[14-Mar-2022 16:57:49 UTC] PHP Warning:  file_get_contents(Camp/offer/.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[14-Mar-2022 16:58:02 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 73
+[14-Mar-2022 16:58:04 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 73
+[14-Mar-2022 16:58:06 UTC] PHP Warning:  file_get_contents(Camp/Checkref/0000/7558007006.txt): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 115
+[15-Mar-2022 13:28:33 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[15-Mar-2022 13:28:33 UTC] PHP Warning:  file_get_contents(Trial/offer/.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[15-Mar-2022 13:29:05 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[15-Mar-2022 13:29:05 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[15-Mar-2022 13:29:12 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[15-Mar-2022 13:29:12 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[15-Mar-2022 13:29:12 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[15-Mar-2022 13:29:12 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[15-Mar-2022 13:29:12 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[15-Mar-2022 13:29:20 UTC] PHP Warning:  file_get_contents(Trial/Checkref/000/7474747464.txt): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 115
+[15-Mar-2022 13:29:22 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[15-Mar-2022 13:29:28 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[15-Mar-2022 13:30:06 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[15-Mar-2022 13:30:06 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[15-Mar-2022 13:30:12 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[15-Mar-2022 13:30:13 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[15-Mar-2022 13:30:13 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[15-Mar-2022 13:30:20 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[15-Mar-2022 13:31:07 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[15-Mar-2022 13:31:07 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[15-Mar-2022 13:31:13 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[15-Mar-2022 13:31:14 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[15-Mar-2022 13:31:14 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[15-Mar-2022 13:31:17 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[15-Mar-2022 13:41:41 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[15-Mar-2022 13:41:41 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[15-Mar-2022 13:41:48 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[15-Mar-2022 14:52:16 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[15-Mar-2022 14:52:16 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[15-Mar-2022 14:52:24 UTC] PHP Warning:  file_get_contents(Trial/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[15-Mar-2022 14:52:24 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 83
+[15-Mar-2022 14:52:29 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/swatcamp/public_html/instant/index.php on line 86
+[16-Mar-2022 08:19:53 UTC] PHP Warning:  file_get_contents(/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[16-Mar-2022 08:19:53 UTC] PHP Warning:  file_get_contents(/offer/.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[16-Mar-2022 08:19:53 UTC] PHP Warning:  file_get_contents(/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[16-Mar-2022 10:57:03 UTC] PHP Warning:  file_get_contents(/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[16-Mar-2022 10:57:03 UTC] PHP Warning:  file_get_contents(/offer/.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[16-Mar-2022 10:57:03 UTC] PHP Warning:  file_get_contents(/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[16-Mar-2022 10:57:13 UTC] PHP Warning:  file_get_contents(/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[16-Mar-2022 10:57:13 UTC] PHP Warning:  file_get_contents(/offer/.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 21
+[16-Mar-2022 10:57:13 UTC] PHP Warning:  file_get_contents(/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
+[16-Mar-2022 16:40:53 UTC] PHP Warning:  mkdir(): File exists in /home/swatcamp/public_html/instant/Dontuse.php on line 122
+[16-Mar-2022 17:07:59 UTC] PHP Warning:  file_get_contents(Phythonmohan/gatew00/index1.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 15
+[16-Mar-2022 17:07:59 UTC] PHP Warning:  file_get_contents(Phythonmohan/gatew00/tele.json): failed to open stream: No such file or directory in /home/swatcamp/public_html/instant/index.php on line 30
